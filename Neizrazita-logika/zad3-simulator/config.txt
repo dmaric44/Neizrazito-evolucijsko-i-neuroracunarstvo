@@ -1,0 +1,4 @@
+java -jar C:\github\Neizrazito-evolucijsko-i-neuroracunarstvo\Neizrazita-logika\zad3-simulator\engine.jar
+3
+20
+10
